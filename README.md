@@ -8,10 +8,10 @@ features from TCC so we can have them in one place.
 - [ ] Digraphs `[C95]`
 - [ ] Digit separator ' `[C23]`
 - [ ] Empty initializer ={} `[C23]`
-- [ ] Attributes
+- [ ] Attributes `[C23]`
     - `[[deprecated]]`
     - `[[fallthrough]]`
-    - `[[maybe\_unused]]`
+    - `[[maybe_unused]]`
     - `[[nodiscard]]`
     - `[[noreturn]]`
     - `[[reproducible]]`
