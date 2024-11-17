@@ -5,15 +5,15 @@ features from TCC so we can have them in one place.
 
 ### Missing Features
 
-- [ ] Digraphs [C95]
-- [ ] Digit separator ' [C23]
-- [ ] Empty initializer ={} [C23]
+- [ ] Digraphs `[C95]`
+- [ ] Digit separator ' `[C23]`
+- [ ] Empty initializer ={} `[C23]`
 - [ ] Attributes
-    - [[deprecated]]
-    - [[fallthrough]]
-    - [[maybe\_unused]]
-    - [[nodiscard]]
-    - [[noreturn]]
-    - [[reproducible]]
-    - [[unsequenced]]
-- [ ] Unnamed parameters in function definitions [C23]
+    - `[[deprecated]]`
+    - `[[fallthrough]]`
+    - `[[maybe\_unused]]`
+    - `[[nodiscard]]`
+    - `[[noreturn]]`
+    - `[[reproducible]]`
+    - `[[unsequenced]]`
+- [ ] Unnamed parameters in function definitions `[C23]`
