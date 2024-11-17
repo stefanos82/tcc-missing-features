@@ -8,8 +8,8 @@ features from TCC so we can have them in one place.
 | Feature | ISO | Implemented |
 |---------|-----|:-------------:|
 | Digraphs | C95 | `[ ]` |
-| Digit separator ' |  C23 | `[ ]` |
-| Empty initializer ={} | C23 | `[ ]` |
+| Digit separator `'` |  C23 | `[ ]` |
+| Empty initializer `={}` | C23 | `[ ]` |
 | Attribute `[[deprecated]]` | C23 | `[ ]` |
 | Attribute `[[fallthrough]]` | C23 | `[ ]` |
 | Attribute `[[maybe_unused]]` | C23 | `[ ]` |
