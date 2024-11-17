@@ -1,12 +1,19 @@
 # tcc-missing-features
 
-I decided to create this repo to ask developers list all missing features from TCC so we can have them in one place.
-
-The format should be something like
+I decided to create this repo to ask developers list all missing
+features from TCC so we can have them in one place.
 
 ### Missing Features
 
-- [ ] Feature Foo [C99]
-- [ ] Partially implemented feature Bar [C11]
-
-If anyone has a better suggestion, I'm open for discussion.
+- [ ] Digraphs [C95]
+- [ ] Digit separator ' [C23]
+- [ ] Empty initializer ={} [C23]
+- [ ] Attributes
+    - [[deprecated]]
+    - [[fallthrough]]
+    - [[maybe\_unused]]
+    - [[nodiscard]]
+    - [[noreturn]]
+    - [[reproducible]]
+    - [[unsequenced]]
+- [ ] Unnamed parameters in function definitions [C23]
