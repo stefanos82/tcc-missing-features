@@ -5,11 +5,13 @@ features from TCC so we can have them in one place.
 
 ## Missing Features
 
+
 ### C95
 
 | Feature | Implemented |
 |---------|:-------------:|
 | Digraphs | `[ ]` |
+
 
 ### C99
 
@@ -17,11 +19,13 @@ features from TCC so we can have them in one place.
 |---------|:-------------:|
 | `...` | `[ ]` |
 
+
 ### C11 / C17
 
 | Feature | Implemented |
 |---------|:-------------:|
 | `...` | `[ ]` |
+
 
 ### C23
 
@@ -38,3 +42,10 @@ features from TCC so we can have them in one place.
 | Attribute `[[reproducible]]` | `[ ]` |
 | Attribute `[[unsequenced]]` | `[ ]` |
 | Unnamed parameters in function definitions | `[ ]` |
+
+
+### GCC extensions
+
+| Feature | Implemented |
+|---------|:-------------:|
+| `__auto_type` | `[ ]` |
